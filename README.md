@@ -40,7 +40,7 @@ Important arguments can be found in Line 488 of `fairseq_gdro/fairseq/options.py
 - GC-DRO: the scripts to run GC-DRO can found under `fariseq_gdro/jobs/`.
 
 For image classification, the scripts to run baseline approaches and GC-DRO can be found under `image_classification/scripts/`.
-
+For clean partition, use `--group_split 'confounder'`; for imperfect partition, use `--group_split 'domain'`.
 
 For details of the methods and results, please refer to our paper. 
 

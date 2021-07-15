@@ -1,0 +1,18 @@
+*.pyc
+*.bin
+*.xml
+*.log
+*.model
+*.out
+*.tran
+*.txt
+*.so
+*.pt
+
+/Datasets/
+*.ipynb
+# IDE
+/.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
